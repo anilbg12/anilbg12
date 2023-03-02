@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anil Gayakwad
-- 👀 I’m interested in embedded systems or Physical design
+- 👀 I’m interested in Embedded Systems
 - 🌱 Embedded Developer
 - 📫 How to reach me anilgayakwad2123@gmail.com
 
