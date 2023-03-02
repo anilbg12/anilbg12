@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anilbg12
+- 👋 Hi, I’m @Anil Gayakwad
 - 👀 I’m interested in embedded systems or Physical design
-- 🌱 I’m currently learning physical design
+- 🌱 Embedded Developer
 - 📫 How to reach me anilgayakwad2123@gmail.com
 
 <!---
